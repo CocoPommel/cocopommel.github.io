@@ -1,0 +1,11 @@
+#yt_stream {
+    width: 80%;
+    height: 100%;
+    float: left; /* stick the youtube stream to the left of the page*/
+}
+
+#tw_chat {
+    height: 100%;
+    width: 20%;
+    float: right; /* stick twitch chat to the right of the page */
+}
